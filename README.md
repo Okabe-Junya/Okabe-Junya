@@ -15,6 +15,13 @@ I am a student at Tsukuba University, and majoring in computer science.
 ### My GitHub Stats
 
 <p align="left"> 
-  <img alt="Top Langages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Junya&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Okabe-Junya&show_icons=true" />
+  <img alt="Top Langages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Junya&layout=compact&theme=github_dark&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Okabe-Junya&theme=github_dark&show_icons=true" />
+</p>
+
+## Contact
+<p align="left">
+<a href="https://twitter.com/junya_tsukuba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junya_tsukuba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/junya-okabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junya-okabe" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JunyaOkabe216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JunyaOkabe" height="30" width="40" /></a>
 </p>
