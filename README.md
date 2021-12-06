@@ -4,7 +4,7 @@
 
 ### Profile
 
-I am a student at Tsukuba University, and majoring in computer science.
+I am a student at University of Tsukuba, and majoring in computer science.
 
 ### I'm interested in
 
@@ -12,7 +12,7 @@ I am a student at Tsukuba University, and majoring in computer science.
 - Mathematical Optimization
 - Competitive Programming
 
-### My GitHub Stats
+### GitHub Stats
 
 <p align="left"> 
   <img alt="Top Langages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Junya&layout=compact&theme=github_dark&show_icons=true" />
