@@ -1,5 +1,9 @@
 # Okabe Junya
 
+<p align=left>
+<img src="https://img.shields.io/github/followers/Okabe-Junya?style=social">
+<img src="https://img.shields.io/github/stars/Okabe-Junya?style=social">
+</p>
 ## Who am I
 
 ### Profile
