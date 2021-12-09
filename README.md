@@ -1,8 +1,15 @@
 # Okabe Junya
 
 <p align=left>
+<a href="https://github.com/Okabe-Junya">
 <img src="https://img.shields.io/github/followers/Okabe-Junya?style=social">
+</a>
+<a href="https://github.com/Okabe-Junya">
 <img src="https://img.shields.io/github/stars/Okabe-Junya?style=social">
+</a>
+<a href="https://github.com/Okabe-Junya">
+<img src="https://komarev.com/ghpvc/?username=Okabe-Junya">
+</a>
 </p>
 
 ## Who am I
