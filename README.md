@@ -20,9 +20,13 @@ I am a student at University of Tsukuba, and majoring in computer science.
 
 ### I'm interested in
 
-- Machine Learning
-- Mathematical Optimization
+- Web application development (backend)
+- mobile application development
 - Competitive Programming
+
+### More about
+
+https://okabe-junya.github.io
 
 ### GitHub Stats
 
