@@ -38,7 +38,7 @@ https://okabe-junya.github.io
 
 ## Contact
 <p align="left">
-<a href="https://twitter.com/junya_tsukuba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junya_tsukuba" height="30" width="40" /></a>
+<a href="https://twitter.com/junya__okabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junya_tsukuba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/junya-okabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junya-okabe" height="30" width="40" /></a>
 <a href="https://www.facebook.com/JunyaOkabe216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JunyaOkabe" height="30" width="40" /></a>
 </p>
