@@ -20,8 +20,9 @@ I am a student at University of Tsukuba, and majoring in computer science.
 
 ### I'm interested in
 
-- Web application development (backend)
-- mobile application development
+- Kubernetes
+- CI/CD, DevOps
+- Platform Engneering, SRE
 - Competitive Programming
 
 ### More about
