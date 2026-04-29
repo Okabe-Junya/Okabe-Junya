@@ -1,6 +1,6 @@
 # Okabe Junya
 
-I am a master's student at University of Tsukuba, majoring in computer science.
+I am a Software Engineer at Mercari, Inc.
 
 ## Roles
 
